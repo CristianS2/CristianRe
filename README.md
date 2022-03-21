@@ -1,2 +1,4 @@
 # CristianRe
-Tecnologo en programación
+Repositorio de Cistian
+Elavorado el Lunes 21/03/2022
+
